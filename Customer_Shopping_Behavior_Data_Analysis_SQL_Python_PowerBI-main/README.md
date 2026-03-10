@@ -232,10 +232,10 @@ This project is available for educational and analytical purposes.
 
 ## 👤 Author
 
-**Arun Kumar A R**
-- Email: arunkumarar58@gmail.com
-- GitHub: [@arunkumarar45](https://github.com/arunkumarar45)
-- LinkedIn: [@arunkumarar](https://www.linkedin.com/in/arun-kumar-a-r-49514b307)
+**Chandre Gowda S N**
+- Email: chandregowdasnc@gmail.com
+- GitHub: [@chandregowda21](https://github.com/chandregowda21)
+- LinkedIn: [@Chandre Gowda S N](https://www.linkedin.com/in/chandre-gowda-s-n-a9b778299)
 
 ## 📧 Contact
 
